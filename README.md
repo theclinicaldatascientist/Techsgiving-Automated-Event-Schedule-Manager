@@ -21,6 +21,9 @@ Improved Accessibility: Seamlessly integrated schedules into personal calendars 
 
 Solution Overview
 
+<img width="561" alt="front-end" src="https://github.com/user-attachments/assets/9cea66dd-6995-444a-a8e7-9306f14f47a8">
+
+
 Workflow
 
 - HTML Parsing: Extract relevant session information from the event schedule page.
