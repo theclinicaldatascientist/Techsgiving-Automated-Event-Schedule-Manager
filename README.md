@@ -65,25 +65,25 @@ Email: Used Google Apps Script to send email updates and confirmations.
 
 Technical Features
 
-Python and Google Apps Script: Unified solution for data extraction, processing, and notification automation.
+- Python and Google Apps Script: Unified solution for data extraction, processing, and notification automation.
 
-API Integration: Seamless communication with Google Workspace and Twilio APIs.
+- API Integration: Seamless communication with Google Workspace and Twilio APIs.
 
-Scalability: System designed to accommodate schedule updates and support additional notification options.
+- Scalability: System designed to accommodate schedule updates and support additional notification options.
 
 Results
 
-Reduced Manual Effort: Fully automated workflows saved significant administrative time.
+- Reduced Manual Effort: Fully automated workflows saved significant administrative time.
 
-Increased Attendance: Timely reminders resulted in higher session attendance rates.
+- Increased Attendance: Timely reminders resulted in higher session attendance rates.
 
-Reusable Framework: Solution adaptable for future events and other non-profit organizations.
+- Reusable Framework: Solution adaptable for future events and other non-profit organizations.
 
 
 Future Enhancements
 
-Improved Error Handling: Enhance resilience to malformed HTML and missing data.
+- Improved Error Handling: Enhance resilience to malformed HTML and missing data.
 
-User Customization: Enable attendees to select specific sessions of interest for tailored reminders.
+- User Customization: Enable attendees to select specific sessions of interest for tailored reminders.
 
-Extended Integration: Add support for communication platforms such as Slack and WhatsApp.
+- Extended Integration: Add support for communication platforms such as Slack and WhatsApp.
